@@ -3,14 +3,14 @@
 ### 2021 Fase 1
 
 - [x] Baralho
-- [ ] Tempo de resposta
+- [x] Tempo de resposta
 - [ ] Torneio de tênis
-- [ ] Zero para cancelar
+- [x] Zero para cancelar
 
 ### 2021 Fase 2
 
 - [ ] Duplas de tênis
-- [ ] Lista palíndroma
+- [x] Lista palíndroma
 - [ ] Mínimo e máximo
 - [ ] Passatempo
 - [ ] Poligrama
@@ -24,7 +24,7 @@
 - [ ] Falha de segurança
 - [ ] Festa olímpica
 - [ ] Ogro
-- [ ] Teclado
+- [x] Teclado
 
 ### 2020 Fase 1
 - [ ] Acelerador de partículas
@@ -53,10 +53,10 @@
 
 ### 2019 Fase 1
 
-- [ ] A idade de Dona Mônica
+- [x] A idade de Dona Mônica
 - [ ] Calçada Imperial
-- [ ] Chuva
-- [ ] Soma
+- [x] Chuva
+- [x] Soma
 
 ### 2019 Fase 2
 

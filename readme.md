@@ -2,7 +2,7 @@
 
 ### 2021 Fase 1
 
-- [ ] Baralho
+- [x] Baralho
 - [ ] Tempo de resposta
 - [ ] Torneio de tênis
 - [ ] Zero para cancelar

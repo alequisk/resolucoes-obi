@@ -1,5 +1,12 @@
 # #Questões Nível Sênior (Universitário)
 
+### 2022 Fase 1
+- [ ] Hotel
+- [x] Quadrado Mágico
+- [x] Chuva
+- [x] Maior valor
+
+
 ### 2021 Fase 1
 
 - [x] Baralho

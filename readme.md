@@ -22,7 +22,7 @@
 - [ ] Passatempo
 - [ ] Poligrama
 - [ ] Retângulo
-- [ ] Sanduíche
+- [x] Sanduíche
 - [ ] Senha da Vó Zinha
 
 ### 2021 Fase 3

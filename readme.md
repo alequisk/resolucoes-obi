@@ -86,9 +86,9 @@
 
 ### 2018 Fase 1
 
-- [ ] Figurinhas da copa
-- [ ] Ilhas
-- [ ] Piso da escola
+- [x] Figurinhas da copa
+- [x] Ilhas
+- [x] Piso da escola
 
 ### 2018 Fase 2
 

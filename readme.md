@@ -6,6 +6,11 @@
 - [x] Chuva
 - [x] Maior valor
 
+### 2022 Fase 2
+- [x] Viagem
+- [x] Tanque de combustível
+- [x] Pirâmide
+- [x] Subcadeias
 
 ### 2021 Fase 1
 
@@ -16,7 +21,7 @@
 
 ### 2021 Fase 2
 
-- [ ] Duplas de tênis
+- [x] Duplas de tênis
 - [x] Lista palíndroma
 - [ ] Mínimo e máximo
 - [ ] Passatempo
